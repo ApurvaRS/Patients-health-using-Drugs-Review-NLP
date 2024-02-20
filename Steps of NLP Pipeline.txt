@@ -1,0 +1,13 @@
+Steps of NLP Pipeline:
+
+‣ Tokenize the sentences.
+‣ Clean Reviews:
+               Remove punctuation
+               Remove special characters/numbers
+               Convert to lowercase
+               Lemmatization
+‣ Create a bag of words model to vectorize
+‣ Apply ML algorithms Navie Bayes & Passive Aggressive Classifier
+‣ Create a TFIDF model to vectorize
+‣ Apply ML algorithms Navie Bayes & Passive Aggressive Classifier
+‣ Compare 
